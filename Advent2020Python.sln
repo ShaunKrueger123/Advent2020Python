@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Advent2020Python", "Advent2020Python\Advent2020Python.pyproj", "{26A61729-64B3-41CF-AE9E-689EEDBBFA67}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{26A61729-64B3-41CF-AE9E-689EEDBBFA67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26A61729-64B3-41CF-AE9E-689EEDBBFA67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A6754092-432F-4ECF-B481-46A8BF739F5E}
+	EndGlobalSection
+EndGlobal
